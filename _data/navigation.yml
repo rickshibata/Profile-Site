@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: https://rickshibata.com/about
+  - title: "Projects"
+    url: https://rickshibata.com/projects
+  - title: "Resume"
+    url: https://rickshibata.com/resume
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
