@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Rick Shibata"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aerospace Engineering student with interest in space exploration and related technologies"
   location         : "Austin, TX"
   email            : "rickshibata@gmail.com"
