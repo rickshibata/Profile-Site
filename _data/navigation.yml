@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://rickshibata.com/about
+    url: https://www.rickshibata.com/about
+  - title: "Current Research"
+    url: https://www.rickshibata.com/current
   - title: "Projects"
-    url: https://rickshibata.com/projects
+    url: https://www.rickshibata.com/projects
   - title: "Resume"
-    url: https://rickshibata.com/resume
+    url: https://www.rickshibata.com/resume
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
