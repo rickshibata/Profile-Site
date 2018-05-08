@@ -1,11 +1,12 @@
-header:
-image: /assets/images/profile-photo.jpg
-og_image: /assets/images/profile-photo.jpg
-
 ---
 permalink: /about/
 title: "About"
 excerpt: "I am a second-year student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin."
+
+layouts_gallery:
+- url: /assets/images/profile-photo.jpg
+image_path: /assets/images/profile-photo.jpg
+alt: "Rocket Scientist"
 
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: true
