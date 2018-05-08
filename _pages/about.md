@@ -1,3 +1,7 @@
+header:
+image: /assets/images/profile-photo.jpg
+og_image: /assets/images/profile-photo.jpg
+
 ---
 permalink: /about/
 title: "About"
