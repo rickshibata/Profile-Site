@@ -11,9 +11,6 @@ toc: false
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile-photo.jpg" alt="">
 </figure> 
 
-<figure style="width: 100px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
-</figure>
 
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
