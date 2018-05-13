@@ -11,7 +11,7 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
 ---
 
-{% include gallery id="profile_photo" %}
+{% include gallery id="profile_photo" width = 640 %}
 
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
