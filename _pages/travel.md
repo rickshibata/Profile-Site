@@ -1,6 +1,7 @@
 ---
 permalink: /travel/
 title: "Travel Log"
+layout: splash
 excerpt: "Photo log of my travels around the world"
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
