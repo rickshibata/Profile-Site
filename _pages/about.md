@@ -29,4 +29,4 @@ My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in
 <br/>
 <br/>
 <br/>
-When I'm not studying, I enjoy traveling and going out on backpacking trips. My hobbies also include reading, practicing the bass guitar and cooking. I currently hold a SSI Open Water Diver license and 3-kyu in Kendo. I love learning new things to do and am always picking up new hobbies.
+When I'm not studying, I enjoy traveling and going out on backpacking trips. My hobbies also include photography, sketching, reading, practicing the bass guitar and cooking. I currently hold a SSI Open Water Diver license and 3-kyu in Kendo. I love learning new things to do and am always picking up new hobbies.
