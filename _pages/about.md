@@ -22,7 +22,6 @@ a
 a
 a
 
-
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure> 
