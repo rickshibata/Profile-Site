@@ -1,6 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
+layout: splash
 excerpt: "PDF of Resume"
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
