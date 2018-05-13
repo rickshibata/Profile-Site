@@ -12,6 +12,8 @@ toc: false
 
 {% include gallery id="profile_photo" %}
 
-I'm currently a second-year graduate student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg){: .align-left}I'm currently a second-year graduate student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows.
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg){: .align-left}I am originally from Seattle, WA and I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016.
 
 When I'm not studying, I enjoy traveling and going out on backpacking trips. My hobbies also include reading, practicing the bass guitar and cooking. I currently hold a SSI Open Water Diver license and 3-kyu in Kendo. I love learning new things to do and am always picking up new hobbies.
