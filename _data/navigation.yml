@@ -8,6 +8,9 @@ main:
     url: /projects/
   - title: "Resume"
     url: /resume/
+  - title: "Travel"
+    url: /travel/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
