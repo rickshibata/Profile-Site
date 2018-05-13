@@ -22,7 +22,7 @@ I'm currently a second-year graduate student pursuing M.S. in Aerospace Engineer
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure> 
-My home city is Seattle, WA where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016.
+My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016.
 
 
 When I'm not studying, I enjoy traveling and going out on backpacking trips. My hobbies also include reading, practicing the bass guitar and cooking. I currently hold a SSI Open Water Diver license and 3-kyu in Kendo. I love learning new things to do and am always picking up new hobbies.
