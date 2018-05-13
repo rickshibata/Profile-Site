@@ -17,7 +17,11 @@ toc: false
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
 
-I'm currently a second-year graduate student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows.
+I'm currently a second-year graduate student pursuing MS in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows. I'm currently studying flow imaging methods using laser induced fluorescence.
+a
+a
+a
+
 
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
