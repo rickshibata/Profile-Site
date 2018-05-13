@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-# _projects
+  # _projects
   - scope:
       path: ""
       type: projects
