@@ -8,4 +8,4 @@ author_profile: false
 toc: false
 ---
 
-<iframe src="https://drive.google.com/file/d/1MAVIIY20J39WHjcOeJMABS5G1fc3zx4K/preview" width="640" height="960"></iframe>
+<iframe src="https://drive.google.com/file/d/1MAVIIY20J39WHjcOeJMABS5G1fc3zx4K/preview" width="840" height="960"></iframe>
