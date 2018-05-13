@@ -15,13 +15,11 @@ toc: false
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 I'm currently a second-year graduate student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows.
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 My home city is Seattle, WA where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016.
 
