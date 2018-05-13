@@ -22,7 +22,8 @@ I'm currently a second-year graduate student pursuing MS in Aerospace Engineerin
 <br/>
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
-</figure> 
+</figure>
+<br/>
 My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research focused primarily on FEA, material modeling, image processing, manufacturing methods and structural analysis.
 <br/>
 <br/>
