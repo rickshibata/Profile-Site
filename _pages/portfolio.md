@@ -1,8 +1,8 @@
 ---
+title: Portfolio
+layout: collection
 permalink: /portfolio/
-title: "Portfolio"
-excerpt: "Overview of my past projects."
-
-last_modified_at: 2018-04-10T08:41:35-04:00
-toc: false
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
