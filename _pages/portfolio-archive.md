@@ -1,9 +1,10 @@
 ---
+title: Portfolio
 layout: collection
-title: "Projects"
-collection: portfolio
 permalink: /portfolio/
-author_profile: false
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
 
 Past Projectes
