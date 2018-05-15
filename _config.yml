@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Rick Shibata"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aerospace Engineering student with interest in space exploration and related technologies"
+  bio              : "Aerospace Engineering graduate student with interest in space exploration and related fields"
   location         : "Austin, TX"
   email            : "rickshibata@gmail.com"
   uri              :
@@ -117,7 +117,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rick-shibata-b4512a46"# "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "rick-shibata-b4512a46" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)

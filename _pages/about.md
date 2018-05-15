@@ -9,23 +9,23 @@ toc: false
 
 <figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile-photo.jpg" alt="">
-</figure> 
+</figure>
 
 
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
 <br/>
-I'm currently a second-year graduate student pursuing MS in Aerospace Engineering at the University of Texas at Austin. My concentration is in aerothermodynamics and fluid mechanics. I am particularly interested in the use of experimental and computational methods in analyzing supersonic flows.
+I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from supersonic flows. Ultimately, I'm interested in pursuing effective use of both experimental and computational methods to solve challenging engineering problems awaiting in the aerospace field.
 <br/>
 <br/>
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure>
 <br/>
-My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research focused primarily on FEA, material modeling, image processing, manufacturing methods and structural analysis.
+My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research consisted of FEA, material modeling, image processing, manufacturing methods and structural analysis. I was previously associated with the Advanced Propulsion Laboratory at UW, where my undergraduate research primarily focused on the development of a two-stage penetrator probe system to retrieve samples off the sub-surface of Europa.
 <br/>
 <br/>
 <br/>
 <br/>
-When I'm not studying, I enjoy traveling and going out on backpacking trips. My hobbies also include photography, sketching, reading, practicing the bass guitar and cooking. I currently hold a SSI Open Water Diver license and 3-kyu in Kendo. I love learning new things to do and am always picking up new hobbies.
+When I'm not studying, I enjoy traveling to interesting places around the world and exploring nature on backpacking trips. My hobbies also include photography, sketching, reading, practicing the bass guitar, scuba diving, and cooking. I love the process of learning new things and am always picking up new hobbies.
