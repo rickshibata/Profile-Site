@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "RS"
 title_separator          : "-"
 name                     : "Rick Shibata"
-description              : "My personal portfolio website."
+description              : "My personal website."
 url                      : "https://www.rickshibata.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Rick Shibata"
-  avatar           : "/assets/images/bio-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aerospace Engineering student with interest in space exploration and related technologies"
   location         : "Austin, TX"
   email            : "rickshibata@gmail.com"
