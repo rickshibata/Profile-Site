@@ -6,19 +6,19 @@ classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
 ---
-
+# Header Profile Photo
 <figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile-photo.jpg" alt="">
 </figure>
 
-
+# University of Texas
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
-<br/>
 I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from supersonic flows. Ultimately, I'm interested in pursuing effective use of both experimental and computational methods to solve challenging engineering problems awaiting in the aerospace field.
 <br/>
 <br/>
+# University of Washington
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure>

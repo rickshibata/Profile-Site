@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Updated profile 1.
+Below is an archive of my past projects.
