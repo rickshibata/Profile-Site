@@ -14,15 +14,15 @@ sidebar:
 gallery:
   - url: /assets/images/steam_engine1.jpg
     image_path: /assets/images/steam_engine1.jpg
-    alt: "placeholder image 1"
+    alt: "Front"
     title: "Front"
   - url: /assets/images/steam_engine2.jpg
-    image_path: /assets/images/steam_engine1.jpg
+    image_path: /assets/images/steam_engine2.jpg
     alt: "Side"
-    title: "Image 1 title caption"
+    title: "Side"
   - url: /assets/images/steam_engine3.jpg
-    image_path: /assets/images/steam_engine1.jpg
-    alt: "placeholder image 1"
+    image_path: /assets/images/steam_engine3.jpg
+    alt: "Back"
     title: "Back"
 ---
 
