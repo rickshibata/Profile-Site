@@ -13,11 +13,11 @@ sidebar:
     text: "Mill, Lathe, Drill Press, Bandsaw, Solidworks"
  gallery:
   - url: /assets/images/steam_engine1.jpg
-    image_path: assets/images/steam_engine1.jpg
+    image_path: /assets/images/steam_engine1.jpg
   - url: /assets/images/steam_engine2.jpg
-    image_path: assets/images/steam_engine2.jpg
+    image_path: /assets/images/steam_engine2.jpg
   - url: /assets/images/steam_engine3.jpg
-    image_path: assets/images/steam_engine3.jpg
+    image_path: /assets/images/steam_engine3.jpg
 ---
 
 This project was an ad hoc project for the ME 355 Manufacturing Processes course, and involved the machining and assembly of Elmer Verburg's opposed-piston steam engine. The engine features two opposed pistons driving the shaft and flywheel by feeding steam or compressed air. Original plans were taken from Elmer's Engines (1988), and modeled in Solidworks to create a process plan.
