@@ -1,7 +1,6 @@
 ---
 title: "Opposed-Piston Steam Engine"
 excerpt: "Machining and assembly of a Elmer Verburg's opposed-piston steam engine."
-layout: projects
 header:
   image: /assets/images/steam_engine.jpg
   teaser: assets/images/steam_engine.jpg
