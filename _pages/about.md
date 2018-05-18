@@ -14,7 +14,7 @@ toc: false
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
-I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from supersonic flows. Ultimately, I'm interested in pursuing effective use of both experimental and computational methods to solve challenging engineering problems awaiting in the aerospace field.
+I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from supersonic flows. Ultimately, I'm interested in pursuing effective use of both experimental and computational methods to solve challenging engineering problems in the aerospace field.
 <br/>
 <br/>
 <figure style="width: 100px" class="align-left">
@@ -25,4 +25,4 @@ My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in
 <br/>
 <br/>
 <br/>
-When I'm not studying, I enjoy traveling to interesting places around the world and exploring nature on backpacking trips. My hobbies also include photography, sketching, reading, practicing the bass guitar, scuba diving, and cooking. I love the process of learning new things and am always picking up new hobbies.
+Outside of academics, I enjoy traveling to interesting places around the world and exploring nature on backpacking trips. My hobbies include photography, sketching, reading, practicing the bass guitar, scuba diving, and cooking. I love the process of learning new things and am always picking up new hobbies.
