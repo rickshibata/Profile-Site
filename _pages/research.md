@@ -7,7 +7,7 @@ last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
 ---
 
-<figure style="width: 500px" class="align-center">
+<figure style="width: 800px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/schlieren1.gif" alt="">
 </figure>
 
