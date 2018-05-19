@@ -11,7 +11,7 @@ toc: false
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/piv1.gif" alt="">
 </figure>
 
-My current research focuses on flow imaging methods of transonic and supersonic flows. The project involves the development and implementation of a plenoptic imaging device, with an industry collaborator, to acquire 3D flow-field data. The research is conducted on the Mach 1.8 wind tunnel at the Flow Imaging Laboratory at the University of Texas at Austin under the supervision of Professor Noel Clemens.
+My current research focuses on flow imaging methods of transonic and supersonic flows. The project works closely with an industry collaborator to develop and implement a plenoptic imaging device to acquire 3D flow-field data. The research is conducted on the Mach 1.8 wind tunnel at the Flow Imaging Laboratory at the University of Texas at Austin under the supervision of Professor Noel Clemens.
 
 The plenoptic camera attachment in development utilizes a micro-lens array (a series of smaller lenses) to capture the incoming light rays at varying angles, a series of additional optical elements, and software to effectively capture volumetric fluid density of subsonic, transonic and supersonic flows.
 
