@@ -14,13 +14,13 @@ toc: false
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
-I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from supersonic flows. Ultimately, I'm interested in pursuing effective use of both experimental and computational methods to solve challenging engineering problems in the aerospace field.
+I'm currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on particle image velocimetry (PIV) and laser-induced fluorescence (LIF) flow imaging to obtain quantitative data from transonic/supersonic flows. Ultimately, I'm interested in pursuing the effective use of both experimental and computational methods to solve challenging engineering problems in the aerospace field.
 <br/>
 <br/>
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure>
-My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research consisted of FEA, material modeling, image processing, manufacturing methods and structural analysis. I was previously associated with the Advanced Propulsion Laboratory at UW, where my undergraduate research primarily focused on the development of a two-stage penetrator probe system to retrieve samples off the sub-surface of Europa.
+My home city is Seattle, WA, where I received my dual-degree in BSME and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research consisted of FEA, material modeling, image processing, manufacturing methods and structural analysis. I was previously associated with the Advanced Propulsion Laboratory at UW, where my undergraduate research primarily focused on the development of a two-stage penetrator probe system to retrieve samples from the sub-surface of Europa.
 <br/>
 <br/>
 <br/>
