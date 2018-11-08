@@ -1,14 +1,12 @@
 ---
 title: "FEA Optimization"
 excerpt: "ANSYS Workbench optimization analysis on plate with series of holes."
-header:
-<figure class="half">
-  image: /assets/images/fea1.jpg
-  teaser: assets/images/fea1.jpg
-</figure>
+#header:
+  #image: /assets/images/fea1.jpg
+  #teaser: assets/images/fea1.jpg
 sidebar:
   - title: "Project Type"
-    image: http://placehold.it/350x250
+    image: /assets/images/fea1.jpg
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
