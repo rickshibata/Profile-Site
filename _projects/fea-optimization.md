@@ -2,8 +2,10 @@
 title: "FEA Optimization"
 excerpt: "ANSYS Workbench optimization analysis on plate with series of holes."
 header:
+<figure class="half">
   image: /assets/images/fea1.jpg
   teaser: assets/images/fea1.jpg
+</figure>
 sidebar:
   - title: "Project Type"
     image: http://placehold.it/350x250
