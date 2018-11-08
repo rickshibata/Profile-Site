@@ -1,12 +1,9 @@
 ---
 title: "Opposed-Piston Steam Engine"
 excerpt: "Machining and assembly of Elmer Verburg's opposed-piston steam engine."
-header:
-  image: /assets/images/steam_engine.jpg
-  teaser: assets/images/steam_engine.jpg
 sidebar:
   - title: "Project Type"
-    image: http://placehold.it/350x250
+    image: /assets/images/steam_engine.jpg
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
