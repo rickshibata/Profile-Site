@@ -6,7 +6,7 @@ header:
   teaser: assets/images/steam_engine-th.jpg
 sidebar:
   - title: "Project Type"
-    image: /assets/images/steam_engine.jpg
+    image: /assets/images/steam_engine-th.jpg
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
