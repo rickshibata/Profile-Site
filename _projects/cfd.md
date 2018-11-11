@@ -32,6 +32,6 @@ gallery:
     title: "Vorticity over time at Reynolds Number of 60"
 ---
 
-This project was the final project for a graduate-level CFD course.
+This project was the final project for a graduate-level Computational Fluid Dynamics (CFD) course. A code was developed in Matlab to simulate the flow past a square-cylinder in a low Reynolds Number (Re) flow of up to Re~100. Under a Re of approximately Re=55, the flow converges to a steady solution, but at higher Re the flow exhibits an unsteady phenomena called the "Kármán vortex street" which is caused by vortex shedding off the cylinder.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
