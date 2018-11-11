@@ -13,6 +13,7 @@ sidebar:
     text: "Mill, Lathe, Drill Press, Bandsaw, Solidworks"
   - title: "Project Advisor"
     text: "Dr. Junlan Wang"
+    text: "University of Washington Mechanical Engineering Department"
 gallery:
   - url: /assets/images/steam_engine1.jpg
     image_path: /assets/images/steam_engine1.jpg
