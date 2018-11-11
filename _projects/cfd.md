@@ -14,18 +14,22 @@ sidebar:
   - title: "Affiliation"
     text: "University of Texas at Austin, Aerospace Engineering"
 gallery:
-  - url: /assets/images/steam_engine1.jpg
-    image_path: /assets/images/steam_engine1.jpg
-    alt: "Front"
-    title: "Front"
-  - url: /assets/images/steam_engine2.jpg
-    image_path: /assets/images/steam_engine2.jpg
-    alt: "Side"
-    title: "Side"
-  - url: /assets/images/steam_engine3.jpg
-    image_path: /assets/images/steam_engine3.jpg
-    alt: "Back"
-    title: "Back"
+  - url: /assets/images/X-Vel_Re40.gif
+    image_path: /assets/images/X-Vel_Re40.gif
+    alt: "X-Velocity over time at Reynolds Number of 40"
+    title: "X-Velocity over time at Reynolds Number of 40"
+  - url: /assets/images/Vort_Re40.gif
+    image_path: /assets/images/X-Vel_Re40.gif
+    alt: "Vorticity over time at Reynolds Number of 40"
+    title: "Vorticity over time at Reynolds Number of 40"
+  - url: /assets/images/X-Vel_Re60.gif
+    image_path: /assets/images/X-Vel_Re60.gif
+    alt: "X-Velocity over time at Reynolds Number of 60"
+    title: "X-Velocity over time at Reynolds Number of 60"
+  - url: /assets/images/Vort_Re60.gif
+    image_path: /assets/images/X-Vel_Re60.gif
+    alt: "Vorticity over time at Reynolds Number of 60"
+    title: "Vorticity over time at Reynolds Number of 60"
 ---
 
 This project was the final project for a graduate-level CFD course.
