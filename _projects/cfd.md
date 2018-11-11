@@ -7,11 +7,12 @@ header:
 sidebar:
   - title: "Project Type"
     image: /assets/images/cfd-th.JPG
-      
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
     text: "Matlab, LaTex"
+  - title: "Affiliation"
+    text: "University of Texas at Austin, Aerospace Engineering"
 gallery:
   - url: /assets/images/steam_engine1.jpg
     image_path: /assets/images/steam_engine1.jpg
