@@ -36,6 +36,10 @@
   overflow: hidden;
   text-overflow: ellipsis;
 
+  a:hover {
+    color: red; text-decoration:none;
+  }
+  
   a {
     color: inherit;
   }
