@@ -9,7 +9,7 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Blog"
-    url: chasingstars.home.blog
+    url: https://chasingstars.home.blog
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
