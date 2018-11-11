@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
-    text: "Mill, Lathe, Drill Press, Bandsaw, Solidworks"
+    text: "Mill, Lathe, Misc. Machine Shop Tools, Solidworks"
   - title: "Project Advisor"
     text: "Dr. Junlan Wang"
     text: "University of Washington Mechanical Engineering Department"
