@@ -2,15 +2,15 @@
 title: "Flow Past a Square Cylinder"
 excerpt: "Computational Fluid Dynamics (CFD) code to compute the flow past a square cylinder at low Reynolds Numbers using a Incompressible 2D Navier-Stokes solver"
 header:
-  #image: /assets/images/fea1.jpg
-  teaser: assets/images/fea1.jpg
+  #image: /assets/images/cfd-th.jpg
+  teaser: assets/images/cfd-th.jpg
 sidebar:
   - title: "Project Type"
-    image: /assets/images/fea1.jpg
+    image: /assets/images/cfd-th.jpg
     image_alt: "logo"
     text: "Academic"
   - title: "Tools"
-    text: "ANSYS Workbench"
+    text: "Matlab, LaTex"
 gallery:
   - url: /assets/images/steam_engine1.jpg
     image_path: /assets/images/steam_engine1.jpg
