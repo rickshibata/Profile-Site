@@ -11,6 +11,9 @@ sidebar:
     text: "Academic"
   - title: "Tools"
     text: "ANSYS Workbench"
+  - title: "Project Advisor"
+    text: "Dr. Nathan Sniadecki"
+    text: "Affiliation: University of Washington Mechanical Engineering Department"
 gallery:
   - url: /assets/images/steam_engine1.jpg
     image_path: /assets/images/steam_engine1.jpg
