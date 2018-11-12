@@ -47,4 +47,6 @@ I also had involvement in setting up the models for the penetrator model impact 
 
 {% include gallery caption="Images of the drop test article prototype." %}{: .text-center}
 
-Some of the oblique impact simulations are featured in ["High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972) by R.M. Winglee, et. al.
+**R.M. Winglee, C. Truitt, R. Shibata,
+[High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972)
+Acta Astronautica, Volume 137, 2017, Pages 274-286**
