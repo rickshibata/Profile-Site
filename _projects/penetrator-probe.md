@@ -2,11 +2,11 @@
 title: "Penetrator-Probe"
 excerpt: "Development of a penetrator-probe sample-retrieval system for Europa."
 header:
-  #image: /assets/images/pp-th.jpg
-  teaser: assets/images/pp-th.jpg
+  #image: /assets/images/pp-th.JPG
+  teaser: assets/images/pp-th.JPG
 sidebar:
   - title: "Project Type"
-    image: /assets/images/pp-th.jpg
+    image: /assets/images/pp-th.JPG
     image_alt: "logo"
     text: "Research"
   - title: "Tools"
@@ -16,20 +16,20 @@ sidebar:
   - title: "Affiliation"
     text: "University of Washington, Earth and Space Sciences; Aeronautics & Astronautics"
 gallery:
-  - url: /assets/images/model4.jpg
-    image_path: /assets/images/model4.jpg
+  - url: /assets/images/model4.JPG
+    image_path: /assets/images/model4.JPG
     alt: "Test Article"
     title: "Model of the penetrator projectile"
-  - url: /assets/images/model1.jpg
-    image_path: /assets/images/model1.jpg
+  - url: /assets/images/model1.JPG
+    image_path: /assets/images/model1.JPG
     alt: "Model of Drop Article"
     title: "Model of the drop article prototype View-1"
-  - url: /assets/images/model2.jpg
-    image_path: /assets/images/model2.jpg
+  - url: /assets/images/model2.JPG
+    image_path: /assets/images/model2.JPG
     alt: "Model of Drop Article"
     title: "Model of the drop article prototype View-2"
-  - url: /assets/images/model1.jpg
-    image_path: /assets/images/model1.jpg
+  - url: /assets/images/model1.JPG
+    image_path: /assets/images/model1.JPG
     alt: "Model of Drop Article"
     title: "Model of the drop article prototype View-3" 
 ---
