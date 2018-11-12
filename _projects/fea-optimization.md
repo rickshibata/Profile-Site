@@ -12,7 +12,7 @@ sidebar:
   - title: "Tools"
     text: "ANSYS Workbench"
   - title: "Project Advisor"
-    text: "Dr. Nathan Sniadecki"
+    text: "Prof. Nathan Sniadecki"
   - title: "Affiliation"
     text: "University of Washington, Mechanical Engineering Department"
 gallery:
