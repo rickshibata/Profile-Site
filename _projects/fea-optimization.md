@@ -18,16 +18,16 @@ sidebar:
 gallery:
   - url: /assets/images/mesh.png
     image_path: /assets/images/mesh.png
-    alt: "Front"
-    title: "Front"
+    alt: "Mesh"
+    title: "Mesh"
   - url: /assets/images/biax1.png
     image_path: /assets/images/steam_engine2.png
-    alt: "Side"
-    title: "Side"
+    alt: "Stress"
+    title: "Stress"
   - url: /assets/images/biax2.png
     image_path: /assets/images/biax2.png
-    alt: "Back"
-    title: "Back"
+    alt: "Deformation"
+    title: "Deformation"
 ---
 
 This project was an additional individual project for the ME 478 Finite Element Analysis (FEA) course, and involved the use of ANSYS Workbench commercial FEA code. A simple plate with five holes was modeled in ANSYS with symmetry conditions, and optimized throught the use of optimization FEA.
