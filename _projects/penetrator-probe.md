@@ -11,7 +11,7 @@ sidebar:
     text: "Research"
   - title: "Tools"
     text: "ANSYS Workbench, AUTODYN, LS-Dyna, SolidWorks, Machine Shop"
-  - title: "Project Advisor"
+  - title: "Principal Investigator"
     text: "Prof. Robert Winglee"
   - title: "Affiliation"
     text: "University of Washington, Earth and Space Sciences; Aeronautics & Astronautics"
