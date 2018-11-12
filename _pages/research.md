@@ -5,11 +5,35 @@ excerpt: "I'm currently researching plenoptic imaging methods."
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
+gallery:
+  - url: /assets/images/ss1.png
+    image_path: /assets/images/ss1.png
+    alt: "Solidworks Model of Mach 1.8 Wind Tunnel"
+    title: "Solidworks model of Mach 1.8 wind tunnel top-view"
+  - url: /assets/images/ss2.png
+    image_path: /assets/images/ss2.png
+    alt: "Solidworks model of mach 1.8 wind tunnel"
+    title: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
+  - url: /assets/images/nozzle_blocks.jpg
+    image_path: /assets/images/nozzle_blocks.jpg
+    alt: "Mach 1.3 nozzle blocks being installed"
+    title: "Mach 1.3 nozzle blocks being installed"
+  - url: /assets/images/test_section.jpg
+    image_path: /assets/images/test_section.jpg
+    alt: "Wind Tunnel Test Section"
+    title: "Wind tunnel test section with windows for PLIF"
+  - url: /assets/images/setup.jpg
+    image_path: /assets/images/setup.jpg
+    alt: "Mach 1.3 Wind Tunnel Setup"
+    title: "Mach 1.3 wind tunnel setup"
+    
 ---
 
 My current research focuses on flow imaging methods of transonic and supersonic flows. The research is a joint project with an industry partner involving the implementation of a plenoptic imaging device to acquire 3D flow-field data using laser-induced fluorescence (LIF). Experiments are conducted on the Mach 1.3 wind tunnel at the [Flowfield Imaging Laboratory](http://research.ae.utexas.edu/FloImLab/) at the University of Texas at Austin under the supervision of Professor Noel Clemens.
 
 The plenoptic imaging device captures instantaneous 3D flow data, as opposed to traditional planar laser-induced fluorescence (PLIF) methods enabling a more efficient instantaneous acquisition of volumetric flow data. We are currently working to setup the experiment so we may conduct traditional PLIF measurements which could be compared with the data acquired by the plenoptic device.
+
+{% raw %}{% include gallery caption="Images of the Mach 1.3 wind tunnel" %}{% endraw %}
 
 Below are some sample images of particle image velocimetry (PIV) and Schlieren captured in the lab. 
 
