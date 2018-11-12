@@ -5,8 +5,6 @@ excerpt: "I'm currently researching plenoptic imaging methods."
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
-
-Flowfield Imaging Laboratory: http://research.ae.utexas.edu/FloImLab/
 ---
 
 My current research focuses on flow imaging methods of transonic and supersonic flows. The research is a joint project with an industry partner involving the implementation of a plenoptic imaging device to acquire 3D flow-field data using laser-induced fluorescence (LIF). Experiments are conducted on the Mach 1.3 wind tunnel at the [Flowfield Imaging Laboratory](http://research.ae.utexas.edu/FloImLab/) at the University of Texas at Austin under the supervision of Professor Noel Clemens.
