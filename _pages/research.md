@@ -11,11 +11,16 @@ My current research focuses on flow imaging methods of transonic and supersonic 
 
 The plenoptic imaging device captures instantaneous 3D flow data, as opposed to traditional planar laser-induced fluorescence (PLIF) methods enabling a more efficient instantaneous acquisition of volumetric flow data. We are currently working to setup the experiment so we may conduct traditional PLIF measurements which could be compared with the data acquired by the plenoptic device.
 
-Below are some sample images captured 
+Below are some sample images of particle image velocimetry (PIV) and Schlieren photography captured in the lab. 
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/piv1.gif" alt="">
   <figcaption>The animation above shows titanium oxide particles seeded into a Mach 3 wind tunnel for particle image velocimetry (PIV).</figcaption>
+</figure>
+
+<figure style="width: 600px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/piv.gif" alt="">
+  <figcaption>The animation above shows the processed frames from the PIV capture.</figcaption>
 </figure>
 
 <figure style="width: 600px" class="align-center">
