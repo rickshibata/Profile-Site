@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Current Research"
 excerpt: "I'm currently researching plenoptic imaging methods."
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
