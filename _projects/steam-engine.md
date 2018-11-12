@@ -12,7 +12,7 @@ sidebar:
   - title: "Tools"
     text: "Mill, Lathe, Misc. Machine Shop Tools, Solidworks"
   - title: "Project Advisor"
-    text: "Dr. Junlan Wang"
+    text: "Prof. Junlan Wang"
   - title: "Affiliation"
     text: "University of Washington, Mechanical Engineering Department"
 gallery:
