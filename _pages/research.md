@@ -52,6 +52,3 @@ Below are some sample images of particle image velocimetry (PIV) and Schlieren c
   <figcaption>The animation above shows a capture test of Schlieren setup for the Mach 1.8 wind tunnel.
 </figcaption>
 </figure>
-
-[Final Report](https://drive.google.com/file/d/19v2MI3-VyChZhyBsUEH9VRpBkd3FWU_M/view?usp=sharing)
-[Source Code](https://drive.google.com/file/d/1KGGJ4mLkh1e_BIdLXWVv-SI-Dxs3nMmw/view?usp=sharing)
