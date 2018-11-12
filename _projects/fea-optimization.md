@@ -28,6 +28,7 @@ gallery:
     image_path: /assets/images/biax2.png
     alt: "Back"
     title: "Back"
+
 link:https://drive.google.com/file/d/1_OaFQjk4trvOFJ9zcIryLTgC6sQyxl0M/view?usp=sharing
 ---
 
