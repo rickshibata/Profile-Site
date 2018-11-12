@@ -9,15 +9,17 @@ toc: false
 
 My current research focuses on flow imaging methods of transonic and supersonic flows. The research is a joint project with an industry partner involving the implementation of a plenoptic imaging device to acquire 3D flow-field data using laser-induced fluorescence (LIF). Experiments are conducted on the Mach 1.3 wind tunnel at the [Flowfield Imaging Laboratory](http://research.ae.utexas.edu/FloImLab/) at the University of Texas at Austin under the supervision of Professor Noel Clemens.
 
-The plenoptic imaging device captures instantaneous 3D flow data, as opposed to traditional planar laser-induced fluorescence (PLIF) methods enabling a instantaneous acquisition of volumetric flow data. We are currently working to setup the experiment so we may conduct traditional PLIF measurements which could be compared with the data acquired by the plenoptic device.
+The plenoptic imaging device captures instantaneous 3D flow data, as opposed to traditional planar laser-induced fluorescence (PLIF) methods enabling a more efficient instantaneous acquisition of volumetric flow data. We are currently working to setup the experiment so we may conduct traditional PLIF measurements which could be compared with the data acquired by the plenoptic device.
+
+Below are some sample images captured 
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/piv1.gif" alt="">
-  <figcaption>The animation above shows titanium oxide particles seeded into a Mach 3 wind tunnel for PIV.</figcaption>{: .text-center}
+  <figcaption>The animation above shows titanium oxide particles seeded into a Mach 3 wind tunnel for particle image velocimetry (PIV).</figcaption>
 </figure>
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/schlieren1.gif" alt="">
   <figcaption>The animation above shows a capture test of Schlieren photography setup for the Mach 1.8 wind tunnel.
-</figcaption>{: .text-center}
+</figcaption>
 </figure>
