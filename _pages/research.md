@@ -6,24 +6,24 @@ classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
 gallery:
-  - url: /assets/images/ss1.png
-    image_path: /assets/images/ss1.png
-    alt: "Solidworks Model of Mach 1.8 Wind Tunnel"
+  - url: /assets/images/ss1.PNG
+    image_path: /assets/images/ss1.PNG
+    alt: "Solidworks model of Mach 1.8 wind tunnel top-view"
     title: "Solidworks model of Mach 1.8 wind tunnel top-view"
-  - url: /assets/images/ss2.png
-    image_path: /assets/images/ss2.png
-    alt: "Solidworks model of mach 1.8 wind tunnel"
+  - url: /assets/images/ss2.PNG
+    image_path: /assets/images/ss2.PNG
+    alt: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
     title: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
-  - url: /assets/images/nozzle_blocks.jpg
-    image_path: /assets/images/nozzle_blocks.jpg
+  - url: /assets/images/nozzle_blocks.JPG
+    image_path: /assets/images/nozzle_blocks.JPG
     alt: "Mach 1.3 nozzle blocks being installed"
     title: "Mach 1.3 nozzle blocks being installed"
-  - url: /assets/images/test_section.jpg
-    image_path: /assets/images/test_section.jpg
-    alt: "Wind Tunnel Test Section"
+  - url: /assets/images/test_section.JPG
+    image_path: /assets/images/test_section.JPG
+    alt: "Wind tunnel test section with windows for PLIF"
     title: "Wind tunnel test section with windows for PLIF"
-  - url: /assets/images/setup.jpg
-    image_path: /assets/images/setup.jpg
+  - url: /assets/images/setup.JPG
+    image_path: /assets/images/setup.JPG
     alt: "Mach 1.3 Wind Tunnel Setup"
     title: "Mach 1.3 wind tunnel setup"
     
