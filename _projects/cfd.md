@@ -28,7 +28,7 @@ gallery2:
     alt: "X-Velocity over time at Reynolds Number of 60"
     title: "X-Velocity over time at Reynolds Number of 60"
   - url: /assets/images/Vort_Re60.gif
-    image_path: /assets/images/X-Vel_Re60.gif
+    image_path: /assets/images/Vort_Re60.gif
     alt: "Vorticity over time at Reynolds Number of 60"
     title: "Vorticity over time at Reynolds Number of 60"
 ---
