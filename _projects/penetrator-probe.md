@@ -2,11 +2,11 @@
 title: "Penetrator-Probe"
 excerpt: "Development of a penetrator-probe sample-retrieval system for Europa."
 header:
-  #image: /assets/images/fea1.jpg
-  teaser: assets/images/fea1.jpg
+  #image: /assets/images/pp-th.jpg
+  teaser: assets/images/pp-th.jpg
 sidebar:
   - title: "Project Type"
-    image: /assets/images/fea1.jpg
+    image: /assets/images/pp-th.jpg
     image_alt: "logo"
     text: "Research"
   - title: "Tools"
