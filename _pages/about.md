@@ -25,4 +25,4 @@ My home city is Seattle, WA, where I received my dual-degree in BS in Mechanical
 <br/>
 <br/>
 <br/>
-Outside of academics, I enjoy traveling to interesting places around the world and exploring nature on backpacking trips. My hobbies include photography, sketching, reading, practicing the bass guitar, scuba diving, and cooking. I enjoy the process of learning new things and am always picking up new hobbies.
+Outside of academics, I enjoy traveling to interesting places around the world and exploring nature on backpacking trips. My hobbies include photography, sketching, reading, practicing the bass guitar, scuba diving, and cooking. I enjoy the process of learning new things, and am always picking up new hobbies.
