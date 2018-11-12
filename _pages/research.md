@@ -13,11 +13,11 @@ The plenoptic imaging device captures instantaneous 3D flow data, as opposed to 
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/piv1.gif" alt="">
-  <figcaption>The animation above shows titanium oxide particles seeded into a Mach 3 wind tunnel for PIV.</figcaption>
+  <figcaption>The animation above shows titanium oxide particles seeded into a Mach 3 wind tunnel for PIV.{: .text-center}</figcaption>
 </figure>
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/schlieren1.gif" alt="">
-  <figcaption>The animation above shows a capture test of Schlieren photography setup for the Mach 1.8 wind tunnel.
+  <figcaption>The animation above shows a capture test of Schlieren photography setup for the Mach 1.8 wind tunnel.{: .text-center}
 </figcaption>
 </figure>
