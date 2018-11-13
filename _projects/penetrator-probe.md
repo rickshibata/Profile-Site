@@ -65,7 +65,7 @@ I also had involvement in setting up the models for the penetrator model impact 
 
 <br/>
 <br/>
-Publications:
+**Publications:**<br/>
 R.M. Winglee, C. Truitt, R. Shibata<br/>
 [High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972)<br/>
 Acta Astronautica, Volume 137, 2017, Pages 274-286
