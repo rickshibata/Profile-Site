@@ -19,8 +19,8 @@ gallery2:
     image_path: /assets/images/nozzle_blocks.JPG
     alt: "Mach 1.3 nozzle blocks being installed"
     title: "Mach 1.3 nozzle blocks being installed"
-  - url: /assets/images/test_section.JPG
-    image_path: /assets/images/test_section.JPG
+  - url: test-section.JPG
+    image_path: test-section.JPG
     alt: "Wind tunnel test section with windows for PLIF"
     title: "Wind tunnel test section with windows for PLIF"
   - url: /assets/images/setup.JPG
