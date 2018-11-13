@@ -1,6 +1,6 @@
 ---
 title: "Penetrator-Probe"
-excerpt: "Development of a penetrator-probe sample-retrieval system for Europa."
+excerpt: "Development of a penetrator-probe sample retrieval system for Europa."
 header:
   #image: /assets/images/pp-th.JPG
   teaser: assets/images/pp-th.JPG
