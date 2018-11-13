@@ -42,7 +42,7 @@ I also had involvement in setting up the models for the penetrator model impact 
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ram.gif" alt="">
-  <figcaption>The animation above shows the penetrator projectile being fired into a block of brine ice atapproximately 1km/s at the University of Washington Ram Accelerator.</figcaption>
+  <figcaption>The animation above shows the penetrator projectile being fired into a block of brine ice at approximately 1km/s at the University of Washington Ram Accelerator.</figcaption>
 </figure>
 
 {% include gallery caption="Images of the drop test article prototype." %}{: .text-center}
