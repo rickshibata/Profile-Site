@@ -48,7 +48,7 @@ gallery2:
     title: "Model of the drop article prototype View-3" 
 ---
 
-This project was an undergraduate research project for the development of a penetrator-probe sample retrieval system for the sub-surface of Europa. My primary role in the project was to run the impact simulation of the penetrator projectile impacting ice to model the ejecta pattern of the ice plume. The main tool used was Autodyn, with the model parameters defined through Ansys Workbench. The video below shows one of such impact simulations.
+This project was an undergraduate research project for the development of a penetrator-probe sample retrieval system for the sub-surface of Europa. My primary role in the project was to run the impact simulation of the penetrator projectile impacting ice to model the ejecta pattern of the ice plume. The main tool used was Autodyn, with the model parameters defined through Ansys Workbench. The video below shows one of such impact simulations, with the steel projectile impacting a block of ice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ykE8xCLknQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -66,6 +66,8 @@ I also had involvement in setting up the models for the penetrator model impact 
 
 <br/>
 <br/>
+**Undergraduate Research Symposium 2016:**
+[High Velocity Impact Analysis of Two-Stage Penetrator Probe](https://drive.google.com/open?id=1ipzLc-gODYzJy3WxIS8u1MUlIGuxAeRJ){:target="_blank"}<br/>
 **Publications:**<br/>
 R.M. Winglee, C. Truitt, R. Shibata<br/>
 [High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972){:target="_blank"}<br/>
