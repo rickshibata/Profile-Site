@@ -53,7 +53,7 @@ This project was an undergraduate research project for the development of a pene
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ykE8xCLknQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
-I also had involvement in setting up the models for the penetrator model impact experiment in the Ram Accelerator Lab at the University of Washington, machining and assembly of the drop test article prototype, and modeling an experimental prototype in SolidWorks.
+I also had involvement in setting up the models for the penetrator model impact experiment in the Ram Accelerator Lab at the University of Washington, machining and assembly of the drop test article prototype (for a helicopter drop test into glacial ice), and modeling an experimental prototype in SolidWorks.
 
 <figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ram.gif" alt="">
