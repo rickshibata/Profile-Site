@@ -51,7 +51,7 @@ gallery2:
 This project was an undergraduate research project for the development of a penetrator-probe sample retrieval system for the sub-surface of Europa. My primary role in the project was to run the impact simulation of the penetrator projectile impacting ice to model the ejecta pattern of the ice plume. The main tool used was Autodyn, with the model parameters defined through Ansys Workbench. The video below shows one of such impact simulations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ykE8xCLknQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/>
 I also had involvement in setting up the models for the penetrator model impact experiment in the Ram Accelerator Lab at the University of Washington, machining and assembly of the drop test article prototype, and modeling an experimental prototype in SolidWorks.
 
 <figure style="width: 600px" class="align-center">
