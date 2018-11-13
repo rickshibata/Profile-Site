@@ -14,6 +14,10 @@ sidebar:
   - title: "Affiliation"
     text: "University of Washington, Mechanical Engineering"
 gallery1:
+  - url: /assets/images/spline1.png
+    image_path: /assets/images/spline1.png
+    alt: "Spline of knee cartilage from MRI in Matlab"
+    title: "Spline of knee cartilage from MRI in Matlab"
   - url: /assets/images/mesh-1.png
     image_path: /assets/images/mesh-1.png
     alt: "Mesh of knee cartilage reconstructed in Meshlab"
@@ -35,4 +39,4 @@ Additionally, I contributed in implementing a Matlab script to review the spline
 <br/>
 <br/>
 **Sample Documentation**<br/>
-[Frame Review GUI Instruction](https://drive.google.com/open?id=1a6w9aNKBTU_ZC5WmB7PN0cjBXJTSk7ch)
+[Frame Review GUI Instruction](https://drive.google.com/open?id=1a6w9aNKBTU_ZC5WmB7PN0cjBXJTSk7ch){:target="_blank"}
