@@ -11,6 +11,8 @@ sidebar:
     text: "Research"
   - title: "Tools"
     text: "Matlab, Meshlab"
+  - title: "Principal Investigator"
+    text: "Prof. Kat Steele"
   - title: "Affiliation"
     text: "University of Washington, Mechanical Engineering"
 gallery1:
@@ -27,8 +29,7 @@ gallery1:
     alt: "Surface of knee cartilage reconstructed in Meshlab"
     title: "Surface of knee cartilage reconstructed in Meshlab"
 ---
-This research was a group project conducted under [Steele Lab](https://steelelab.me.uw.edu/) under the supervision of Professor Kat Steele.
-The goal of this research was to quantitatively analyze the degragation of knee cartilage in osteoarthritis (OA) patients.
+This research was a group project conducted in [Steele Lab](https://steelelab.me.uw.edu/), to quantitatively analyze the degragation of knee cartilage in osteoarthritis (OA) patients.
 A sample of 60 MRI scans, including both healthy and OA affected patients were obtained from a partner hospital, and the sample MRI sets were assigned numbers to omit any bias during data analysis.
 Group members then individually processed a total of approximately 400 frames to create splines of the knee cartilage surfaces using Matlab.
 The cartilage surfaces were individually reconstructed in Meshlab, and Matlab was used to obtain a comprehensive data of each sample.
