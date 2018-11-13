@@ -21,7 +21,7 @@ gallery:
     alt: "Mesh"
     title: "Mesh"
   - url: /assets/images/biax1.png
-    image_path: /assets/images/steam_engine2.png
+    image_path: /assets/images/biax1.png
     alt: "Stress"
     title: "Stress"
   - url: /assets/images/biax2.png
