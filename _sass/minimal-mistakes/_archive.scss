@@ -70,10 +70,10 @@
   border-radius: $border-radius;
   overflow: hidden;
   img {
-    height: 400px;
-    width: 600px;
-    //width: 100%;
-    object-fit: contain;
+    //height: 400px;
+    //width: 600px%;
+    width: 100%;
+    //object-fit: contain;
   }
 }
 
