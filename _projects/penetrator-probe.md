@@ -68,6 +68,7 @@ I also had involvement in setting up the models for the penetrator model impact 
 <br/>
 **Undergraduate Research Symposium 2016:**<br/>
 [High Velocity Impact Analysis of Two-Stage Penetrator Probe](https://drive.google.com/open?id=1ipzLc-gODYzJy3WxIS8u1MUlIGuxAeRJ){:target="_blank"}<br/>
+<br/>
 **Publications:**<br/>
 R.M. Winglee, C. Truitt, R. Shibata<br/>
 [High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972){:target="_blank"}<br/>
