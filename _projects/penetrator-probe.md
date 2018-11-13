@@ -15,7 +15,21 @@ sidebar:
     text: "Prof. Robert Winglee"
   - title: "Affiliation"
     text: "University of Washington, Earth and Space Sciences; Aeronautics & Astronautics"
-gallery:
+gallery1:
+  - url: /assets/images/drop1.JPG
+    image_path: /assets/images/drop1.JPG
+    alt: "Drop Article"
+    title: "Drop article view 1"
+  - url: /assets/images/drop2.JPG
+    image_path: /assets/images/drop2.JPG
+    alt: "Drop Article"
+    title: "Drop article view 2"
+  - url: /assets/images/drop2.JPG
+    image_path: /assets/images/drop2.JPG
+    alt: "Drop Article"
+    title: "Drop article view 2"
+    
+gallery2:
   - url: /assets/images/model4.JPG
     image_path: /assets/images/model4.JPG
     alt: "Test Article"
@@ -45,8 +59,13 @@ I also had involvement in setting up the models for the penetrator model impact 
   <figcaption>The animation above shows the penetrator projectile being fired into a block of brine ice at approximately 1km/s at the University of Washington Ram Accelerator.</figcaption>
 </figure>
 
-{% include gallery caption="Images of the drop test article prototype." %}{: .text-center}
+{% include gallery id="gallery2" caption="Images of the drop test article prototype." %}{: .text-center}
 
-`R.M. Winglee, C. Truitt, R. Shibata`<br/>
-`[High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972)`<br/>
-`Acta Astronautica, Volume 137, 2017, Pages 274-286`
+{% include gallery id="gallery1" caption="SolidWorks model of the drop test article secondary prototype." %}{: .text-center}
+
+<br/>
+<br/>
+Publications:
+R.M. Winglee, C. Truitt, R. Shibata<br/>
+[High velocity penetrators used a potential means for attaining core sample for airless solar system objects](https://www.sciencedirect.com/science/article/pii/S0094576516313972)<br/>
+Acta Astronautica, Volume 137, 2017, Pages 274-286
