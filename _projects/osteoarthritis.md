@@ -26,8 +26,13 @@ gallery1:
 This research was a group project conducted under [Steele Lab](https://steelelab.me.uw.edu/) under the supervision of Professor Kat Steele.
 The goal of this research was to quantitatively analyze the degragation of knee cartilage in osteoarthritis (OA) patients.
 A sample of 60 MRI scans, including both healthy and OA affected patients were obtained from a partner hospital, and the sample MRI sets were assigned numbers to omit any bias during data analysis.
-Our group then processed a total of approximately 400 frames to create splines of the knee cartilage surfaces using Matlab.
-The cartilage surfaces were individually reconstructed in Meshlab, and Matlab was used to obtain a comprehensive data of each sample. 
+Group members then individually processed a total of approximately 400 frames to create splines of the knee cartilage surfaces using Matlab.
+The cartilage surfaces were individually reconstructed in Meshlab, and Matlab was used to obtain a comprehensive data of each sample.
 Additionally, I contributed in implementing a Matlab script to review the splines in the graphical user interface (GUI).
 
 {% include gallery id="gallery1" caption="Surface reconstruction in Meshlab" %}{: .text-center}
+
+<br/>
+<br/>
+**Sample Documentation**<br/>
+[Frame Review GUI Instruction](https://drive.google.com/open?id=1a6w9aNKBTU_ZC5WmB7PN0cjBXJTSk7ch)
