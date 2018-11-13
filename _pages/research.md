@@ -6,12 +6,12 @@ classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
 gallery:
-  - url: /assets/images/ss1.PNG
-    image_path: /assets/images/ss1.PNG
+  - url: /assets/images/ss1.jpg
+    image_path: /assets/images/ss1.jpg
     alt: "Solidworks model of Mach 1.8 wind tunnel top-view"
     title: "Solidworks model of Mach 1.8 wind tunnel top-view"
-  - url: /assets/images/ss2.PNG
-    image_path: /assets/images/ss2.PNG
+  - url: /assets/images/ss2.jpg
+    image_path: /assets/images/ss2.jpg
     alt: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
     title: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
   - url: /assets/images/nozzle_blocks.JPG
