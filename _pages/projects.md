@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Below is an archive of my past projects.
+Below is an archive of some of my past projects.
