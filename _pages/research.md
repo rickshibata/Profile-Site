@@ -5,7 +5,7 @@ excerpt: "I'm currently researching plenoptic imaging methods."
 classes: wide
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: false
-gallery:
+gallery1:
   - url: /assets/images/ss1.jpg
     image_path: /assets/images/ss1.jpg
     alt: "Solidworks model of Mach 1.8 wind tunnel top-view"
@@ -14,6 +14,7 @@ gallery:
     image_path: /assets/images/ss2.jpg
     alt: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
     title: "Solidworks model of Mach 1.8 wind tunnel bottom-view"
+gallery2:
   - url: /assets/images/nozzle_blocks.JPG
     image_path: /assets/images/nozzle_blocks.JPG
     alt: "Mach 1.3 nozzle blocks being installed"
@@ -33,7 +34,9 @@ My current research focuses on flow imaging methods of transonic and supersonic 
 
 The plenoptic imaging device captures instantaneous 3D flow data, as opposed to traditional planar laser-induced fluorescence (PLIF) methods enabling a more efficient instantaneous acquisition of volumetric flow data. We are currently working to set up the experiment so we may conduct traditional PLIF measurements which could be compared with the data acquired by the plenoptic device.
 
-{% include gallery caption="Images of the Mach 1.3 wind tunnel" %}{: .text-center}
+{% include gallery id="gallery1" caption="SolidWorks model of the Mach 1.8 wind tunnel" %}{: .text-center}
+
+{% include gallery id="gallery2" caption="Images of the Mach 1.3 wind tunnel installed" %}{: .text-center}
 
 Below are some sample images of particle image velocimetry (PIV) and Schlieren captured in the lab. 
 
