@@ -32,7 +32,7 @@ gallery:
 
 This project was an independent ad hoc project for the ME 478 Finite Element Analysis (FEA) course, and involved the use of ANSYS Workbench commercial FEA code. A simple plate with five holes was modeled in ANSYS with symmetry conditions, and the optimal pitch and diameter of the hole was found using the optimizationa analysis in Ansys. The primary focus of the project was to become familiar with design optimization using FEA.
 
-{% include gallery caption="Biaxial Loading on the plate model." %}
+{% include gallery caption="Biaxial Loading on the plate model." %}{: .text-center}
 
 <br/>
 <br/>
