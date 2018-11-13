@@ -34,4 +34,4 @@ This project was an independent ad hoc project for the ME 478 Finite Element Ana
 
 {% include gallery caption="Biaxial Loading on the plate model." %}
 
-[Final Report](https://drive.google.com/file/d/1_OaFQjk4trvOFJ9zcIryLTgC6sQyxl0M/view?usp=sharing)
+[Final Report](https://drive.google.com/file/d/1_OaFQjk4trvOFJ9zcIryLTgC6sQyxl0M/view?usp=sharing){:target="_blank"}
