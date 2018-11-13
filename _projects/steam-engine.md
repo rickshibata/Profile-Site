@@ -37,8 +37,9 @@ This project was an additional individual project for the ME 355 Manufacturing P
 <iframe width="1280" height="753" src="https://www.youtube.com/embed/PB665QiU52M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1280" height="753" src="https://www.youtube.com/embed/P_VtBcmRHrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Deliverables:**
+<br/>
+<br/>
+**Deliverables:**<br/>
 [Mid-Quarter Report](https://drive.google.com/open?id=1XWpfR8-b7nWUhYjEg1Z9UajFhiytRHqm)<br/>
 [Final Report (Process Plan)](https://drive.google.com/open?id=145xpN2F92gUZEH4LvaF77CGsFd8JIJ7h)
 
