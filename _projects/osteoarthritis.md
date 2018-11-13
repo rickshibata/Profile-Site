@@ -34,7 +34,7 @@ Group members then individually processed a total of approximately 400 frames to
 The cartilage surfaces were individually reconstructed in Meshlab, and Matlab was used to obtain a comprehensive data of each sample.
 Additionally, I contributed in implementing a Matlab script to review the splines in the graphical user interface (GUI).
 
-{% include gallery id="gallery1" caption="Surface reconstruction in Meshlab" %}{: .text-center}
+{% include gallery id="gallery1" caption="Surface reconstruction process in Matlab and Meshlab" %}{: .text-center}
 
 <br/>
 <br/>
