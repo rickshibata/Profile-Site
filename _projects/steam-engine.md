@@ -30,7 +30,7 @@ gallery:
     title: "Back"
 ---
 
-This project was an additional individual project for the ME 355 Manufacturing Processes course, and involved the machining and assembly of Elmer Verburg's opposed-piston steam engine. The engine features two opposed pistons driving the shaft and flywheel by feeding steam or compressed air. The primary focus of the project was the manufacturing and assembly of the engine parts, and the engine itself is designed to be more of a desktop piece than a operational engine. Original plans were taken from Elmer's Engines (1988), and were modeled in Solidworks prior to create a process plan.
+This project was an independent ad hoc project for the ME 355 Manufacturing Processes course, and involved the machining and assembly of Elmer Verburg's opposed-piston steam engine. The engine features two opposed pistons driving the shaft and flywheel by feeding steam or compressed air. The primary focus of the project was the manufacturing and assembly of the engine parts, and the engine itself is designed to be more of a desktop piece than a operational engine. Original plans were taken from Elmer's Engines (1988), and were modeled in Solidworks prior to create a process plan.
 
 {% include gallery caption="The steam engine viewed from different angles." %}{: .text-center}
 
