@@ -41,6 +41,6 @@ This project was the final project for a graduate-level Computational Fluid Dyna
 <br/>
 <br/>
 **Deliverables**<br/>
-[Final Report](https://drive.google.com/file/d/19v2MI3-VyChZhyBsUEH9VRpBkd3FWU_M/view?usp=sharing)
+[Final Report](https://drive.google.com/file/d/19v2MI3-VyChZhyBsUEH9VRpBkd3FWU_M/view?usp=sharing){:target="_blank"}
 <br/>
-[Source Code](https://drive.google.com/file/d/1KGGJ4mLkh1e_BIdLXWVv-SI-Dxs3nMmw/view?usp=sharing)
+[Source Code](https://drive.google.com/file/d/1KGGJ4mLkh1e_BIdLXWVv-SI-Dxs3nMmw/view?usp=sharing){:target="_blank"}
