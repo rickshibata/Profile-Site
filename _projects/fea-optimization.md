@@ -30,7 +30,7 @@ gallery:
     title: "Deformation"
 ---
 
-This project was an additional individual project for the ME 478 Finite Element Analysis (FEA) course, and involved the use of ANSYS Workbench commercial FEA code. A simple plate with five holes was modeled in ANSYS with symmetry conditions, and optimized throught the use of optimization FEA.
+This project was an independent ad hoc project for the ME 478 Finite Element Analysis (FEA) course, and involved the use of ANSYS Workbench commercial FEA code. A simple plate with five holes was modeled in ANSYS with symmetry conditions, and optimized throught the use of optimization FEA.
 
 {% include gallery caption="Biaxial Loading on the plate model." %}
 
