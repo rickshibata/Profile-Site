@@ -40,6 +40,6 @@ This project was an independent ad hoc project for the ME 355 Manufacturing Proc
 <br/>
 <br/>
 **Deliverables:**<br/>
-[Mid-Quarter Report](https://drive.google.com/open?id=1XWpfR8-b7nWUhYjEg1Z9UajFhiytRHqm)<br/>
-[Final Report (Process Plan)](https://drive.google.com/open?id=145xpN2F92gUZEH4LvaF77CGsFd8JIJ7h)
+[Mid-Quarter Report](https://drive.google.com/open?id=1XWpfR8-b7nWUhYjEg1Z9UajFhiytRHqm){:target="_blank"}<br/>
+[Final Report (Process Plan)](https://drive.google.com/open?id=145xpN2F92gUZEH4LvaF77CGsFd8JIJ7h){:target="_blank"}
 
