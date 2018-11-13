@@ -20,7 +20,7 @@ I am currently a second-year graduate student pursuing a MS in Aerospace Enginee
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UWseal.svg" alt="">
 </figure>
-My home city is Seattle, WA, where I received my dual-degree in BS in Mechanical Engineering (BSME) and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research consisted of finite-element analysis (FEA), material modeling, image processing, manufacturing methods and structural analysis. I was previously associated with the Advanced Propulsion Laboratory at UW, where my undergraduate research primarily focused on the development of a two-stage penetrator probe system to retrieve samples from the sub-surface of Europa.
+My home city is Seattle, WA, where I received my dual-degree in BS in Mechanical Engineering (BSME) and a BS in Economics from the University of Washington in 2016. My undergraduate studies and research consisted of finite-element analysis (FEA), material modeling, image processing, manufacturing methods and structural analysis. I was previously associated with the Advanced Propulsion Laboratory at UW, where my research primarily focused on the development of a two-stage penetrator probe system to retrieve samples from the sub-surface of Europa.
 <br/>
 <br/>
 <br/>
