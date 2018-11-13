@@ -24,10 +24,10 @@ gallery1:
     image_path: /assets/images/drop2.JPG
     alt: "Drop Article"
     title: "Drop article view 2"
-  - url: /assets/images/drop2.JPG
-    image_path: /assets/images/drop2.JPG
+  - url: /assets/images/drop3.JPG
+    image_path: /assets/images/drop3.JPG
     alt: "Drop Article"
-    title: "Drop article view 2"
+    title: "Drop article view 3"
     
 gallery2:
   - url: /assets/images/model4.JPG
