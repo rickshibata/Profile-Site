@@ -19,15 +19,15 @@ gallery1:
   - url: /assets/images/drop1.JPG
     image_path: /assets/images/drop1.JPG
     alt: "Drop Article"
-    title: "Drop article view 1"
+    title: "Drop article view 1 - general assembly"
   - url: /assets/images/drop2.JPG
     image_path: /assets/images/drop2.JPG
     alt: "Drop Article"
-    title: "Drop article view 2"
+    title: "Drop article view 2 - section view"
   - url: /assets/images/drop3.JPG
     image_path: /assets/images/drop3.JPG
     alt: "Drop Article"
-    title: "Drop article view 3"
+    title: "Drop article view 3 - release mechanism"
     
 gallery2:
   - url: /assets/images/model4.JPG
