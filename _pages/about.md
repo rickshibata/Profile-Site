@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "I'm currently a second-year student pursuing M.S. in Aerospace Engineering at the University of Texas at Austin."
 classes: wide
-last_modified_at: 2018-04-10T08:41:35-04:00
+last_modified_at: 2019-01-29T08:41:35-04:00
 toc: false
 ---
 
