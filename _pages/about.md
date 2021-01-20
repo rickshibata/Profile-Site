@@ -14,7 +14,7 @@ toc: false
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/UTseal.svg" alt="">
 </figure>
-I am currently a second-year graduate student pursuing a MS in Aerospace Engineering at the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My current research focuses on using laser diagnostics to obtain quantitative data from transonic/supersonic flows. Ultimately, I am interested in pursuing the effective use of both experimental and computational methods to solve challenging engineering problems in the aerospace field.
+I am a recent graduate with a MS in Aerospace Engineering from the University of Texas at Austin, with a concentration in aerothermodynamics and fluid mechanics. My graduate research focused on using laser diagnostics to obtain quantitative data from transonic/supersonic flows. Currently, I am interested in pursuing the effective use of both experimental and computational methods to solve challenging engineering problems in the aerospace field.
 <br/>
 <br/>
 <figure style="width: 100px" class="align-left">
