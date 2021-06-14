@@ -100,8 +100,8 @@ analytics:
 author:
   name             : "Rick Shibata"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aerospace engineering graduate student with interest in space exploration and related fields"
-  location         : "Austin, TX"
+  bio              : "Aerospace engineering graduate with interest in space exploration and related fields"
+  location         : "Redmond, WA"
   email            : "rickshibata@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
